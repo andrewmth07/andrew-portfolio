@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  color: #222;
+  text-align: center;
+}
+header {
+  background-color: #1e2a38;
+  color: white;
+  padding: 2rem;
+}
+.hero {
+  padding: 2rem;
+}
+.profile-img {
+  width: 160px;
+  border-radius: 100px;
+  margin-bottom: 1rem;
+}
+.btn {
+  padding: 0.8rem 1.5rem;
+  background-color: #1e2a38;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+}
+footer {
+  margin-top: 3rem;
+  padding: 1rem;
+  background-color: #e9ecef;
+}
